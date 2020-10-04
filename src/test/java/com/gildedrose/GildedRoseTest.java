@@ -25,8 +25,16 @@ class GildedRoseTest {
                 new Item("Conjured Mana Cake", 3, 6) };
         GildedRose app = new GildedRose(items);
         app.updateQuality();
+        System.out.println("name, sellIn, quality");
+        for (Item item : items) {
+            System.out.println(item);
+        }
         app.items[0].toString();
         assertThat(app.items[0].name, is("foo"));
+
+
+
+
     }
 
 }
