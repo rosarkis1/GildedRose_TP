@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="com.gildedrose.GildedRoseTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-10-04T15:16:33" hostname="DESKTOP-1SPHOU6" time="0.301">
+<testsuite name="com.gildedrose.GildedRoseTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-10-06T15:21:59" hostname="DESKTOP-1SPHOU6" time="0.267">
   <properties/>
-  <testcase name="foo()" classname="com.gildedrose.GildedRoseTest" time="0.301"/>
+  <testcase name="foo()" classname="com.gildedrose.GildedRoseTest" time="0.267"/>
   <system-out><![CDATA[name, sellIn, quality
 foo, -1, 0
 +5 Dexterity Vest, 9, 19
@@ -16,7 +16,8 @@ Backstage passes to a TAFKAL80ETC concert, 9, 50
 Backstage passes to a TAFKAL80ETC concert, 4, 50
 Backstage passes to a TAFKAL80ETC concert, 4, 28
 Backstage passes to a TAFKAL80ETC concert, -6, 0
-Conjured Mana Cake, 2, 5
+Conjured Mana Cake, 2, 4
+Conjured Mana Cake, -4, 16
 ]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>
